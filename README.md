@@ -26,6 +26,7 @@ This reference board is designed using two Analog Devices linear regulators: LT3
 * Output Voltage 	+/-12V
 * Output Current 	Max 500 mA  (depends on input/output difference and output current)
 
+<hr>
 
 <img src="/pics/finished_pcb.png" />  
   
