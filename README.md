@@ -3,7 +3,7 @@ Ultra-Low Noise, Ultra-High PSRR +/-12V DC/DC with LT3045 & LT3094
   
 #### +/-12V Power Supply Reference Board / Evaluation Board for High-Precision, Ultra-Low Noise Analog Circuits  
   
-The 12V output low-noise p-n power Mpression Ultra-Low Noise, Ultra-High PSRR +/-12V DC/DC Board with LT3045 is a low-noise (0.8µVRMS at 10Hz to 100kHz) reference board for audio equipment and small-signal sensor systems.  
+The 12V output low-noise p-n power <a href="https://www.m-pression.com/solutions/boards/analog-power-evaluation/ultra-low-noise-ultra-high-psrr-12v-dcdc-lt3045">Mpression</a> Ultra-Low Noise, Ultra-High PSRR +/-12V DC/DC Board with LT3045 is a low-noise (0.8µVRMS at 10Hz to 100kHz) reference board for audio equipment and small-signal sensor systems.  
   
 Audio equipment designs require low noise power supply to improve audio quality, and small-signal sensor processing circuits like in CCD sensors require low-noise positive and negative power supplies for analog circuitry.  
   
